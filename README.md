@@ -14,7 +14,7 @@ Getting Started:
 - CSV file addresses
 - Group names (for example Experimental and Control)
 - Tissue region names or cluster names
-Note: it is important that whatever names/labels used in the SampleInfo.xlsx file are also included in the headers of the CSV files. 
+- Note: it is important that whatever names/labels used in the SampleInfo.xlsx file are also included in the headers of the CSV files. 
 5. Install any necessary libraries through CRAN before executing the library commands to load them. 
 6. Execute the commands in the Pre-Processing section followed by the commands in the Analysis section. 
 7. Example commands are included in the Analysis section, with the expected outputs given in the "Outputs" directory.
